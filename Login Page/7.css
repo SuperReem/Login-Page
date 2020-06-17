@@ -1,0 +1,87 @@
+body {
+    
+    background: url("tum8.jpeg");
+    background-size: cover;
+    
+    
+}
+
+#fdiv {
+    
+    object-position: center;
+    background-color:black;
+    width: 300px;
+    height: 400px;
+    margin-top: 12%;
+    margin-left: 39%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+    text-align: center;
+    opacity: 70%;
+}
+
+#text1 {
+    
+    margin-top: 10%;
+    width = 30px;
+    height: 25px;
+    background-color: black;
+ 
+    border-top-style:hidden;
+    border-right-style:hidden;
+    border-left-style:hidden;
+   
+}
+
+#text2 {
+    
+     margin-top: 18%;
+     height: 25px;
+    background-color: black;
+   
+
+     border-top-style:hidden;
+    border-right-style:hidden;
+    border-left-style:hidden;
+    
+     
+}
+#text1, select, textarea{
+    color:#fff;
+}
+#text2, select, textarea{
+    color:#fff;
+}
+#ch1 {
+    margin-top: 20%;
+    margin-right: 68%;
+}
+#hh {
+    color: #fff;
+    margin-top: -6%;
+    font-family: sans-serif;
+}
+#lolo {
+    color: #fff;
+    margin-top: 10px;
+    font-family:sans-serif;
+}
+#img5 {
+    color: burlywood;
+    width = 60px;
+    height: 60px;
+    margin-top: -50px;
+}
+#homeimg {
+    
+     width= 23px;
+    height: 23px;
+     margin-top: 1px;
+     margin-left: 6px;
+    
+}
+#btn1 {
+     height: 25px;
+    width: 70px;
+    margin-top: 10%;
+}
