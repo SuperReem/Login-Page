@@ -52,12 +52,7 @@ body {
 #text2, select, textarea{
     color:#fff;
 }
-#hh {
-    color: #fff;
-    margin-top: -6%;
-    font-family: sans-serif;
-}
-#lolo {
+#label1 {
     color: #fff;
     margin-top: 10px;
     font-family:sans-serif;
